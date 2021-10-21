@@ -1,0 +1,80 @@
+html
+{
+margin: 0;
+padding: 0;
+width: 100%;
+}
+body
+{
+margin: 0;
+padding: 0;
+width: 100%;
+text-align: center;
+justify-content: center;
+background: #0c002b;
+background-size: 100vh;
+}
+
+.wrapper
+{
+position: absolute;
+top: 25%;
+left: 50%;
+transform: translate(-80%, 150%);
+width: 30%;
+}
+#Path_31, #Path_32
+{
+stroke: #fff;
+fill: #fff;
+stroke-dasharray: 1800;
+opacity: 10;
+animation: animate 3s cubic-bezier(0,0.23,1,.1);
+}
+
+@keyframes animate
+{
+0%
+{
+opacity: 0;
+fill: none;
+stroke-dashoffset: 1800;
+}
+30%
+{
+opacity: 10;
+fill: none;
+stroke-dashoffset: 1800;
+}
+90%
+{
+fill: rgba(255, 255, 255, 0);
+}
+100%
+{
+opacity: 10;
+fill: rgba(255, 255, 255, 1);
+text-shadow: 0 5px 10px rgba(255, 255, 255, 0.2),
+0 5px 20px rgba(255, 255, 255, 1),
+0 5px 30px rgba(255, 255, 255, 1),
+0 5px 40px rgba(255, 255, 255, 1) ;
+stroke-dashoffset: 0;
+}
+}
+
+
+
+@media only screen and (max-width: 600px)
+{
+    .wrapper
+    {
+        position: absolute;
+        top: 15%;
+        left: 10%;
+        transform: translate(-40%, 150%) scale(0.5);
+        width: 30%;
+        
+    }
+    
+}
+

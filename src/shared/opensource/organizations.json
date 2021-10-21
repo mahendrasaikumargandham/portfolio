@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "login": "GNOME",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1801039?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "python",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1525981?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "microsoft",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "uber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/538264?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "twowaits",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71963051?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "apple",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10639145?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "GDSC-RCCIIT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90250270?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "NetScape-Web",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91627539?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}
