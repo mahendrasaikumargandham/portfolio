@@ -3,7 +3,7 @@ import "./PullRequests.css";
 import { Fade } from "react-reveal";
 import PullRequestCard from "../../components/pullRequestCard/PullRequestCard";
 import pullRequestsData from "../../shared/opensource/pull_requests.json";
-import GitHubCalendar from "react-github-calendar";
+// import GitHubCalendar from "react-github-calendar";
 
 class PullRequests extends Component {
   render() {
@@ -12,14 +12,14 @@ class PullRequests extends Component {
       <div>
         <div className="pull-requests-header-div">
           <Fade bottom duration={2000} distance="20px">
-            <h1 className="pull-requests-header" style={{ color: theme.text }}>
+            {/* <h1 className="pull-requests-header" style={{ color: theme.text }}>
               Contribution Graph
-            </h1>
+            </h1> */}
           </Fade>
         </div>
         <div className="chart">
           <Fade bottom duration={3000} distance="30px">
-            <GitHubCalendar username="mahendragandham" fullYear={true} />
+            {/* <GitHubCalendar username="mahendrasaikumargandham" fullYear={false} /> */}
           </Fade>
         </div>
 
