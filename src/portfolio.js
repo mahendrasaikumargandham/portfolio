@@ -26,7 +26,7 @@ const greeting = {
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/mahendragandham",
+    link: "https://github.com/mahendrasaikumargandham",
     fontAwesomeIcon: "fa-github",
     backgroundColor: "#181717",
   },
