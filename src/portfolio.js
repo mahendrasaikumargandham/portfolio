@@ -32,7 +32,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/mahendra-gandham-7066b51b9/",
+    link: "https://www.linkedin.com/in/mahendragandham/",
     fontAwesomeIcon: "fa-linkedin-in",
     backgroundColor: "#0077B5",
   },
