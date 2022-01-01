@@ -56,7 +56,7 @@ const socialMediaLinks = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/mahendra.gandham.54/",
+    link: "https://www.facebook.com/mahendra4919/",
     fontAwesomeIcon: "fa-facebook-f",
     backgroundColor: "#1877F2",
   },
