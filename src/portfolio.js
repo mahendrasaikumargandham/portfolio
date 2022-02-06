@@ -334,16 +334,16 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Smt. B. Seetha Polytechnic",
-      subtitle: "Diploma in Computer Engineering",
+      title: "Vishnu Institute of Technology",
+      subtitle: "B.Tech. in Computer Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "Vishnupur, Bhimavaram",
-      duration: "2017-2020",
+      duration: "2021-Present",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CN, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Machine Learning, Cloud Computing and Front End Development.",
+        "⚡ Apart from this, I have done courses on Linux Administration, Full Stack Development, Game Development.",
       ],
-      website_link: "http://seethapoly.edu.in/",
+      website_link: "https://vishnu.edu.in/",
     },
   ],
 };
