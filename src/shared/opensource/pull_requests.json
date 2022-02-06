@@ -2,6 +2,31 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDOEG9MNM4xqBhN",
+      "title": "Changed `src/App.js` file Code.",
+      "url": "https://github.com/prasadbobby/amplify/pull/27",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=0001fe7c038e289b49278904cb0d1856c5c67613&v=4",
+        "url": "https://github.com/prasadbobby",
+        "login": "prasadbobby"
+      },
+      "createdAt": "2022-01-27T06:59:18Z",
+      "number": 27,
+      "changedFiles": 2,
+      "additions": 3,
+      "deletions": 72,
+      "baseRepository": {
+        "name": "amplify",
+        "url": "https://github.com/prasadbobby/amplify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=0001fe7c038e289b49278904cb0d1856c5c67613&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOGJtce84th1Zt",
       "title": "🔥  Created `Main.py` file in face-detector 🚀",
       "url": "https://github.com/karthikmsd7/face-detector/pull/2",
@@ -152,7 +177,7 @@
       }
     }
   ],
-  "merged": 6,
+  "merged": 7,
   "open": 0,
-  "totalCount": 6
+  "totalCount": 7
 }
