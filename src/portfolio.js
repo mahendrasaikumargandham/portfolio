@@ -172,7 +172,7 @@ const skills = {
         },
         {
           skillName: "Python",
-          fontAwesomeClassname: "simple-icons:python",
+          fontAwesomeClassname: "logos:python",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -231,11 +231,11 @@ const skills = {
     // },
 
     {
-      title: "Linux Development & Administrtation",
+      title: "Linux Administrtation",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for Linux",
-        "⚡ Creating new functionalities for Linux apps",
+        "⚡ Developing Automation Scripts using Shell Scripting",
+        "⚡ Maintaining and monitoring Linux Servers (Root)",
         "⚡ Creating the flow of application functionalities to optimize User Experience",
       ],
       softwareSkills: [
