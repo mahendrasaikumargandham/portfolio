@@ -75,7 +75,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React frameworks",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+        "⚡ Developing Backend Support for the Frontend using MongoDB with Express JS",
         "⚡ Creating application backend in Node, Express",
       ],
       softwareSkills: [
@@ -122,110 +122,113 @@ const skills = {
             color: "#CB3837",
           },
         },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
+        {
+          skillName: "Express JS",
+          fontAwesomeClassname: "simple-icons:express",
+          style: {
+            color: "#02569B",
+          },
+        },
       ],
     },
     {
-      title: "Artificial Intelligence",
-      fileName: "DataScienceImg",
+      title: "Game Development",
+      fileName: "CloudInfraImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Experience working on 2D and 3D Platforms",
+        "⚡ Desiging the UI Levels using Unreal Engine perfectly works in All Platforms",
+        "⚡ Developing Backend Functionality to interact with Frontend design",
+        "⚡ Deploying AI Models for integrating with Non-Player Characters in Virtual World",
+        // "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "Unreal Engine",
+          fontAwesomeClassname: "simple-icons:unrealengine",
           style: {
-            backgroundColor: "transparent",
+            color: "#0E1128",
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "C++",
+          fontAwesomeClassname: "simple-icons:cplusplus",
           style: {
-            backgroundColor: "white",
-            color: "#D00000",
+            color: "#00599C",
           },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "VS Code",
+          fontAwesomeClassname: "simple-icons:visualstudio",
           style: {
-            backgroundColor: "transparent",
+            color: "#5C2D91",
+          },
+        },
+        {
+          skillName: "OpenGL",
+          fontAwesomeClassname: "simple-icons:opengl",
+          style: {
+            color: "#5586A4",
           },
         },
         {
           skillName: "Python",
-          fontAwesomeClassname: "logos:python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
-            backgroundColor: "transparent",
             color: "#3776AB",
           },
         },
+
+        // {
+        //   skillName: "MongoDB",
+        //   fontAwesomeClassname: "simple-icons:mongodb",
+        //   style: {
+        //     color: "#47A248",
+        //   },
+        // },
       ],
     },
     // {
-    //   title: "Cloud Infra-Architecture",
-    //   fileName: "CloudInfraImg",
+    //   title: "AI & Data Science",
+    //   fileName: "DataScienceImg",
     //   skills: [
-    //     "⚡ Experience working on multiple cloud platforms",
-    //     "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-    //     "⚡ Deploying deep learning models on cloud to use on mobile devices",
-    //     "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+    //     "⚡ Experience of working with Computer Vision and NLP projects",
+    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
     //   ],
     //   softwareSkills: [
     //     {
-    //       skillName: "GCP",
-    //       fontAwesomeClassname: "simple-icons:googlecloud",
+    //       skillName: "Tensorflow",
+    //       fontAwesomeClassname: "logos-tensorflow",
     //       style: {
-    //         color: "#4285F4",
+    //         backgroundColor: "transparent",
     //       },
     //     },
     //     {
-    //       skillName: "AWS",
-    //       fontAwesomeClassname: "simple-icons:amazonaws",
+    //       skillName: "Keras",
+    //       fontAwesomeClassname: "simple-icons:keras",
     //       style: {
-    //         color: "#FF9900",
+    //         backgroundColor: "white",
+    //         color: "#D00000",
     //       },
     //     },
     //     {
-    //       skillName: "Azure",
-    //       fontAwesomeClassname: "simple-icons:microsoftazure",
+    //       skillName: "PyTorch",
+    //       fontAwesomeClassname: "logos-pytorch",
     //       style: {
-    //         color: "#0089D6",
+    //         backgroundColor: "transparent",
     //       },
     //     },
     //     {
-    //       skillName: "Firebase",
-    //       fontAwesomeClassname: "simple-icons:firebase",
+    //       skillName: "Python",
+    //       fontAwesomeClassname: "logos:python",
     //       style: {
-    //         color: "#FFCA28",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PostgreSQL",
-    //       fontAwesomeClassname: "simple-icons:postgresql",
-    //       style: {
-    //         color: "#336791",
-    //       },
-    //     },
-    //     {
-    //       skillName: "MongoDB",
-    //       fontAwesomeClassname: "simple-icons:mongodb",
-    //       style: {
-    //         color: "#47A248",
+    //         backgroundColor: "transparent",
+    //         color: "#3776AB",
     //       },
     //     },
     //   ],
     // },
+
     {
       title: "Linux Development & Administrtation",
       fileName: "DesignImg",
