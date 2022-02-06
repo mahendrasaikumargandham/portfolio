@@ -1,3 +1,14 @@
 {
-  "data": []
+  "data": [
+    {
+      "login": "python",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1525981?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "microsoft",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "__typename": "Organization"
+    }
+  ]
 }

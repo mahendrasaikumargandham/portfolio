@@ -2,6 +2,48 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDOGhqyps4yIPdQ",
+      "title": "Updated Syntax View in `setup.py` file",
+      "url": "https://github.com/microsoft/ml-wrappers/pull/37",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2022-02-06T08:27:03Z",
+      "number": 37,
+      "changedFiles": 1,
+      "additions": 15,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "ml-wrappers",
+        "url": "https://github.com/microsoft/ml-wrappers",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+          "login": "microsoft",
+          "url": "https://github.com/microsoft"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOAeOl_84yIPWX",
+      "title": "Updated README.md",
+      "url": "https://github.com/python/typeshed/pull/7143",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2022-02-06T08:23:29Z",
+      "number": 7143,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "typeshed",
+        "url": "https://github.com/python/typeshed",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1525981?v=4",
+          "login": "python",
+          "url": "https://github.com/python"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOEG9MNM4xqBhN",
       "title": "Changed `src/App.js` file Code.",
       "url": "https://github.com/prasadbobby/amplify/pull/27",
@@ -178,6 +220,6 @@
     }
   ],
   "merged": 7,
-  "open": 0,
-  "totalCount": 7
+  "open": 2,
+  "totalCount": 9
 }
