@@ -174,6 +174,7 @@ const skills = {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
           style: {
+            backgroundColor: "transparent",
             color: "#3776AB",
           },
         },
