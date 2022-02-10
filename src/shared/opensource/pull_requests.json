@@ -1,5 +1,5 @@
 {
-  "closed": 0,
+  "closed": 1,
   "data": [
     {
       "id": "PR_kwDOGhqyps4yIPdQ",
@@ -26,7 +26,7 @@
       "id": "PR_kwDOAeOl_84yIPWX",
       "title": "Updated README.md",
       "url": "https://github.com/python/typeshed/pull/7143",
-      "state": "OPEN",
+      "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2022-02-06T08:23:29Z",
       "number": 7143,
@@ -220,6 +220,6 @@
     }
   ],
   "merged": 7,
-  "open": 2,
+  "open": 1,
   "totalCount": 9
 }
