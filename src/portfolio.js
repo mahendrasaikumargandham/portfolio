@@ -157,8 +157,8 @@ const skills = {
           },
         },
         {
-          skillName: "Visual Studio",
-          fontAwesomeClassname: "simple-icons:visualstudio",
+          skillName: "XCode",
+          fontAwesomeClassname: "simple-icons:xcode",
           style: {
             color: "#5C2D91",
           },
