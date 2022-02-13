@@ -143,6 +143,13 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "XCode",
+          fontAwesomeClassname: "simple-icons:xcode",
+          style: {
+            color: "#147EFB",
+          },
+        },
+        {
           skillName: "Unreal Engine",
           fontAwesomeClassname: "simple-icons:unrealengine",
           style: {
@@ -156,13 +163,7 @@ const skills = {
             color: "#00599C",
           },
         },
-        {
-          skillName: "XCode",
-          fontAwesomeClassname: "simple-icons:xcode",
-          style: {
-            color: "#5C2D91",
-          },
-        },
+
         {
           skillName: "OpenGL",
           fontAwesomeClassname: "simple-icons:opengl",
