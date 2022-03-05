@@ -136,41 +136,41 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on 2D and 3D Platforms",
-        "⚡ Desiging the UI Levels using Unreal Engine perfectly works in All Platforms",
+        "⚡ Desiging the UI Levels using Unity  perfectly works in All Platforms",
         "⚡ Developing Backend Functionality to interact with Frontend design",
         "⚡ Deploying AI Models for integrating with Non-Player Characters in Virtual World",
         // "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
-          skillName: "XCode",
-          fontAwesomeClassname: "simple-icons:xcode",
+          skillName: "Visual Studio",
+          fontAwesomeClassname: "simple-icons:visualstudio",
           style: {
-            color: "#147EFB",
+            color: "#5c2d91",
           },
         },
         {
-          skillName: "Unreal Engine",
-          fontAwesomeClassname: "simple-icons:unrealengine",
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
           style: {
             color: "#0E1128",
           },
         },
         {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
+          skillName: "C Sharp",
+          fontAwesomeClassname: "simple-icons:csharp",
           style: {
-            color: "#00599C",
+            color: "#000000",
           },
         },
-
         {
-          skillName: "OpenGL",
-          fontAwesomeClassname: "simple-icons:opengl",
+          skillName: "XCode",
+          fontAwesomeClassname: "simple-icons:xcode",
           style: {
-            color: "#5586A4",
+            color: "#007acc",
           },
         },
+        
         {
           skillName: "Python",
           fontAwesomeClassname: "logos:python",
