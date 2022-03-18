@@ -1,11 +1,36 @@
 {
-  "closed": 1,
+  "closed": 2,
   "data": [
+    {
+      "id": "PR_kwDOEG9MNM4z3xa8",
+      "title": "Changed modules in src folder 🚀",
+      "url": "https://github.com/prasadbobby/amplify/pull/30",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+        "url": "https://github.com/prasadbobby",
+        "login": "prasadbobby"
+      },
+      "createdAt": "2022-03-03T06:27:06Z",
+      "number": 30,
+      "changedFiles": 4,
+      "additions": 2,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "amplify",
+        "url": "https://github.com/prasadbobby/amplify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
     {
       "id": "PR_kwDOGhqyps4yIPdQ",
       "title": "Updated Syntax View in `setup.py` file",
       "url": "https://github.com/microsoft/ml-wrappers/pull/37",
-      "state": "OPEN",
+      "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2022-02-06T08:27:03Z",
       "number": 37,
@@ -49,7 +74,7 @@
       "url": "https://github.com/prasadbobby/amplify/pull/27",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=0001fe7c038e289b49278904cb0d1856c5c67613&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
         "url": "https://github.com/prasadbobby",
         "login": "prasadbobby"
       },
@@ -62,7 +87,7 @@
         "name": "amplify",
         "url": "https://github.com/prasadbobby/amplify",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=0001fe7c038e289b49278904cb0d1856c5c67613&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
           "login": "prasadbobby",
           "url": "https://github.com/prasadbobby"
         }
@@ -99,7 +124,7 @@
       "url": "https://github.com/prasadbobby/portfolio/pull/4",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=0001fe7c038e289b49278904cb0d1856c5c67613&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
         "url": "https://github.com/prasadbobby",
         "login": "prasadbobby"
       },
@@ -112,7 +137,7 @@
         "name": "portfolio",
         "url": "https://github.com/prasadbobby/portfolio",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=0001fe7c038e289b49278904cb0d1856c5c67613&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
           "login": "prasadbobby",
           "url": "https://github.com/prasadbobby"
         }
@@ -199,7 +224,7 @@
       "url": "https://github.com/prasadbobby/colleges-api/pull/3",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=0001fe7c038e289b49278904cb0d1856c5c67613&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
         "url": "https://github.com/prasadbobby",
         "login": "prasadbobby"
       },
@@ -212,14 +237,14 @@
         "name": "colleges-api",
         "url": "https://github.com/prasadbobby/colleges-api",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=0001fe7c038e289b49278904cb0d1856c5c67613&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
           "login": "prasadbobby",
           "url": "https://github.com/prasadbobby"
         }
       }
     }
   ],
-  "merged": 7,
-  "open": 1,
-  "totalCount": 9
+  "merged": 8,
+  "open": 0,
+  "totalCount": 10
 }

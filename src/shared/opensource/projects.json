@@ -19,7 +19,7 @@
       "name": "SearchEngine",
       "createdAt": "2021-10-23T04:48:52Z",
       "url": "https://github.com/mahendrasaikumargandham/SearchEngine",
-      "description": "Search Engine is a project of developing clone of Google. It contains 2 Web Pages (\"/\", \"/search\"). It was developed in React JS. Google API Key is used in this Project as the backend Functionality. The results will be displayed in the /search page when the search thing was entered in main page (/). Star the project if you like",
+      "description": "Search Engine is a project of developing clone of Google. It was developed in React JS. Google API Key is used in this Project as the backend Functionality. The results will be displayed in the /search page when the search thing was entered in main page (/). Star the project if you like",
       "isFork": false,
       "languages": [
         {
