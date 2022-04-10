@@ -131,95 +131,46 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Game Development",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on 2D and 3D Platforms",
-        "⚡ Desiging the UI Levels using Unity  perfectly works in All Platforms",
-        "⚡ Developing Backend Functionality to interact with Frontend design",
-        "⚡ Deploying AI Models for integrating with Non-Player Characters in Virtual World",
-        // "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Visual Studio",
-          fontAwesomeClassname: "simple-icons:visualstudio",
-          style: {
-            color: "#5c2d91",
-          },
-        },
-        {
-          skillName: "Unity",
-          fontAwesomeClassname: "simple-icons:unity",
-          style: {
-            color: "#0E1128",
-          },
-        },
-        {
-          skillName: "C Sharp",
-          fontAwesomeClassname: "simple-icons:csharp",
-          style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "XCode",
-          fontAwesomeClassname: "simple-icons:xcode",
-          style: {
-            color: "#007acc",
-          },
-        },
-        
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "logos:python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-
-        // {
-        //   skillName: "MongoDB",
-        //   fontAwesomeClassname: "simple-icons:mongodb",
-        //   style: {
-        //     color: "#47A248",
-        //   },
-        // },
-      ],
-    },
     // {
-    //   title: "AI & Data Science",
-    //   fileName: "DataScienceImg",
+    //   title: "Game Development",
+    //   fileName: "CloudInfraImg",
     //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+    //     "⚡ Experience working on 2D and 3D Platforms",
+    //     "⚡ Desiging the UI Levels using Unity  perfectly works in All Platforms",
+    //     "⚡ Developing Backend Functionality to interact with Frontend design",
+    //     "⚡ Deploying AI Models for integrating with Non-Player Characters in Virtual World",
+    //     // "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
     //   ],
     //   softwareSkills: [
     //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
+    //       skillName: "Visual Studio",
+    //       fontAwesomeClassname: "simple-icons:visualstudio",
     //       style: {
-    //         backgroundColor: "transparent",
+    //         color: "#5c2d91",
     //       },
     //     },
     //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
+    //       skillName: "Unity",
+    //       fontAwesomeClassname: "simple-icons:unity",
     //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
+    //         color: "#0E1128",
     //       },
     //     },
     //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
+    //       skillName: "C Sharp",
+    //       fontAwesomeClassname: "simple-icons:csharp",
     //       style: {
-    //         backgroundColor: "transparent",
+    //         color: "#000000",
     //       },
     //     },
+    //     {
+    //       skillName: "XCode",
+    //       fontAwesomeClassname: "simple-icons:xcode",
+    //       style: {
+    //         color: "#007acc",
+    //       },
+    //     },
+
     //     {
     //       skillName: "Python",
     //       fontAwesomeClassname: "logos:python",
@@ -228,8 +179,57 @@ const skills = {
     //         color: "#3776AB",
     //       },
     //     },
+
+    //     // {
+    //     //   skillName: "MongoDB",
+    //     //   fontAwesomeClassname: "simple-icons:mongodb",
+    //     //   style: {
+    //     //     color: "#47A248",
+    //     //   },
+    //     // },
     //   ],
     // },
+    {
+      title: "AI & Data Science",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "logos:python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
 
     {
       title: "Linux Administrtation",
