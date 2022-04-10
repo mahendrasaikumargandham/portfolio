@@ -319,7 +319,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@mahendra4919",
+      profileLink: "https://www.hackerearth.com/@mahendra_4919",
     },
     // {
     //   siteName: "hackthebox",
