@@ -2,6 +2,152 @@
   "closed": 2,
   "data": [
     {
+      "id": "PR_kwDOHwuFs84-CsBS",
+      "title": "Revert \"Updated App.js File 🔥\"",
+      "url": "https://github.com/mahendrasaikumargandham/FingerPrint-Verifier-Expo/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92915886?u=9cf7dd57ddb175b294e342cbe2da182a33b645e3&v=4",
+        "url": "https://github.com/mahendrasaikumargandham",
+        "login": "mahendrasaikumargandham"
+      },
+      "createdAt": "2022-08-30T12:02:03Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "FingerPrint-Verifier-Expo",
+        "url": "https://github.com/mahendrasaikumargandham/FingerPrint-Verifier-Expo",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/92915886?u=9cf7dd57ddb175b294e342cbe2da182a33b645e3&v=4",
+          "login": "mahendrasaikumargandham",
+          "url": "https://github.com/mahendrasaikumargandham"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOFaNz2846AwqM",
+      "title": "Updated test.js 🚀",
+      "url": "https://github.com/prasadbobby/portfolio/pull/6",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2022-06-21T08:44:28Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "portfolio",
+        "url": "https://github.com/prasadbobby/portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOFXmE8s46AvJH",
+      "title": "Update README.md",
+      "url": "https://github.com/prasadbobby/chat-bot/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+        "url": "https://github.com/prasadbobby",
+        "login": "prasadbobby"
+      },
+      "createdAt": "2022-06-21T08:38:42Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "chat-bot",
+        "url": "https://github.com/prasadbobby/chat-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHbHGMs46AuJV",
+      "title": "Update index.html",
+      "url": "https://github.com/mahendrasaikumargandham/Wedding-template/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92915886?u=9cf7dd57ddb175b294e342cbe2da182a33b645e3&v=4",
+        "url": "https://github.com/mahendrasaikumargandham",
+        "login": "mahendrasaikumargandham"
+      },
+      "createdAt": "2022-06-21T08:34:34Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Wedding-template",
+        "url": "https://github.com/mahendrasaikumargandham/Wedding-template",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/92915886?u=9cf7dd57ddb175b294e342cbe2da182a33b645e3&v=4",
+          "login": "mahendrasaikumargandham",
+          "url": "https://github.com/mahendrasaikumargandham"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOEG9MNM46AJJE",
+      "title": "Updated App.js",
+      "url": "https://github.com/prasadbobby/amplify/pull/38",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+        "url": "https://github.com/prasadbobby",
+        "login": "prasadbobby"
+      },
+      "createdAt": "2022-06-21T05:34:36Z",
+      "number": 38,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "amplify",
+        "url": "https://github.com/prasadbobby/amplify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOEG9MNM42Rssm",
+      "title": "🪜 Update App.js in /src folder 🚀",
+      "url": "https://github.com/prasadbobby/amplify/pull/36",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+        "url": "https://github.com/prasadbobby",
+        "login": "prasadbobby"
+      },
+      "createdAt": "2022-04-15T06:04:35Z",
+      "number": 36,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "amplify",
+        "url": "https://github.com/prasadbobby/amplify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOEG9MNM4z3xa8",
       "title": "Changed modules in src folder 🚀",
       "url": "https://github.com/prasadbobby/amplify/pull/30",
@@ -244,7 +390,7 @@
       }
     }
   ],
-  "merged": 8,
-  "open": 0,
-  "totalCount": 10
+  "merged": 13,
+  "open": 1,
+  "totalCount": 16
 }
