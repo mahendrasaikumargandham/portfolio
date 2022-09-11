@@ -1,6 +1,6 @@
 {
   "name": "Mahendra's Portfolio",
-  "background_color": "#ffffff",
+  "background_color": "#000000",
   "display": "standalone",
   "icons": [
     {
@@ -42,5 +42,5 @@
   ],
   "short_name": "Mahendra's Portfolio",
   "start_url": ".",
-  "theme_color": "#000000"
+  "theme_color": "#ffffff"
 }
