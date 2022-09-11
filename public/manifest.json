@@ -4,37 +4,37 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "/mahendra-36x36.png",
+      "src": "/mahendra.png",
       "sizes": "36x36",
       "type": "image/png",
       "density": "0.75"
     },
     {
-      "src": "/mahendra-48x48.png",
+      "src": "/mahendra.png",
       "sizes": "48x48",
       "type": "image/png",
       "density": "1.0"
     },
     {
-      "src": "/mahendra-72x72.png",
+      "src": "/mahendra.png",
       "sizes": "72x72",
       "type": "image/png",
       "density": "1.5"
     },
     {
-      "src": "/mahendra-96x96.png",
+      "src": "/mahendra.png",
       "sizes": "96x96",
       "type": "image/png",
       "density": "2.0"
     },
     {
-      "src": "/mahendra-144x144.png",
+      "src": "/mahendra.png",
       "sizes": "144x144",
       "type": "image/png",
       "density": "3.0"
     },
     {
-      "src": "/mahendra-192x192.png",
+      "src": "/mahendra.png",
       "sizes": "192x192",
       "type": "image/png",
       "density": "4.0"
