@@ -75,7 +75,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React frameworks",
-        "⚡ Developing Backend Support for the Frontend using MongoDB with Express JS",
+        "⚡ Developing Backend Support for the Frontend using Firebase with Express JS",
         "⚡ Creating application backend in Node, Express",
       ],
       softwareSkills: [
@@ -190,42 +190,44 @@ const skills = {
     //   ],
     // },
     {
-      title: "AI & Deep Learning",
+      title: "Game Development",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and Neural Network projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Developing highly scalable production ready games in both 3D and 2D",
+        "⚡ Experience of working with Story Based Games and Third Person Shooting",
+        "⚡ Complex quantitative design for High Graphical Games",
       ],
       softwareSkills: [
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
           style: {
-            backgroundColor: "transparent",
+            backgroundColor: "#000000",
+            color: "#fff",
           },
         },
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "C Sharp",
+          fontAwesomeClassname: "simple-icons:csharp",
           style: {
             backgroundColor: "transparent",
+            color: "#000000",
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "Unreal Engine",
+          fontAwesomeClassname: "simple-icons:unrealengine",
           style: {
-            backgroundColor: "white",
-            color: "#D00000",
+            backgroundColor: "#000000",
+            color: "#fff",
           },
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "logos:python",
+          skillName: "C++",
+          fontAwesomeClassname: "simple-icons:cplusplus",
           style: {
             backgroundColor: "transparent",
-            color: "#3776AB",
+            color: "#000000",
           },
         },
       ],

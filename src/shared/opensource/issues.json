@@ -1,5 +1,5 @@
 {
-  "closed": 2,
+  "closed": 4,
   "data": [
     {
       "id": "I_kwDOFaNz285RZPuH",
@@ -63,7 +63,7 @@
     },
     {
       "id": "I_kwDOFwp_Oc5P5Z_T",
-      "closed": false,
+      "closed": true,
       "title": "Running in expo",
       "createdAt": "2022-08-16T14:31:29Z",
       "url": "https://github.com/videosdk-live/videosdk-rtc-react-native-sdk-example/issues/15",
@@ -83,7 +83,7 @@
     },
     {
       "id": "I_kwDOGQQgoc49qydp",
-      "closed": false,
+      "closed": true,
       "title": "Missed Margin & Padding Effects in Main Page.",
       "createdAt": "2021-10-25T03:10:53Z",
       "url": "https://github.com/karthikmsd7/react-website/issues/2",
@@ -102,6 +102,6 @@
       }
     }
   ],
-  "open": 3,
+  "open": 1,
   "totalCount": 5
 }

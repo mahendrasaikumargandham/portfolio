@@ -2,6 +2,131 @@
   "closed": 2,
   "data": [
     {
+      "id": "PR_kwDOFjDeCc5AAhx7",
+      "title": "Added `firebase authentication for node server` 🔐",
+      "url": "https://github.com/prasadbobby/NeedAP/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+        "url": "https://github.com/prasadbobby",
+        "login": "prasadbobby"
+      },
+      "createdAt": "2022-10-02T16:07:09Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 18,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "NeedAP",
+        "url": "https://github.com/prasadbobby/NeedAP",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH9UDFc5AAgiI",
+      "title": "Integrated `ServiceWorker` file to index.html 🔥",
+      "url": "https://github.com/21pa5a0504/Progressive-Web-Application/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107905102?u=5b49406ac81e2a1d390ffe39f7bb5d22f288f9c5&v=4",
+        "url": "https://github.com/21pa5a0504",
+        "login": "21pa5a0504"
+      },
+      "createdAt": "2022-10-02T15:44:41Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 31,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Progressive-Web-Application",
+        "url": "https://github.com/21pa5a0504/Progressive-Web-Application",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/107905102?u=5b49406ac81e2a1d390ffe39f7bb5d22f288f9c5&v=4",
+          "login": "21pa5a0504",
+          "url": "https://github.com/21pa5a0504"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGQQgoc5AAfkQ",
+      "title": "Updated UI Design in `src` directory 🚀",
+      "url": "https://github.com/karthikmsd7/react-website/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78126266?u=844c7b5e346f93d4edb06bbf5366e05ece4d439a&v=4",
+        "url": "https://github.com/karthikmsd7",
+        "login": "karthikmsd7"
+      },
+      "createdAt": "2022-10-02T15:27:12Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 74,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "react-website",
+        "url": "https://github.com/karthikmsd7/react-website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78126266?u=844c7b5e346f93d4edb06bbf5366e05ece4d439a&v=4",
+          "login": "karthikmsd7",
+          "url": "https://github.com/karthikmsd7"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOFaNz284__aZA",
+      "title": "Updated Components in App and Header ✅",
+      "url": "https://github.com/prasadbobby/portfolio/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+        "url": "https://github.com/prasadbobby",
+        "login": "prasadbobby"
+      },
+      "createdAt": "2022-10-01T15:29:20Z",
+      "number": 11,
+      "changedFiles": 4,
+      "additions": 683,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "portfolio",
+        "url": "https://github.com/prasadbobby/portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOEG9MNM4__Yqz",
+      "title": "Changed UI Structure in `/src` directory 🚀",
+      "url": "https://github.com/prasadbobby/amplify/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+        "url": "https://github.com/prasadbobby",
+        "login": "prasadbobby"
+      },
+      "createdAt": "2022-10-01T15:04:58Z",
+      "number": 40,
+      "changedFiles": 3,
+      "additions": 21,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "amplify",
+        "url": "https://github.com/prasadbobby/amplify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57008950?u=55682444ddbf42d6fdc27b10165a3abc7db99ea0&v=4",
+          "login": "prasadbobby",
+          "url": "https://github.com/prasadbobby"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOHwuFs84-CsBS",
       "title": "Revert \"Updated App.js File 🔥\"",
       "url": "https://github.com/mahendrasaikumargandham/FingerPrint-Verifier-Expo/pull/2",
@@ -390,7 +515,7 @@
       }
     }
   ],
-  "merged": 13,
+  "merged": 18,
   "open": 1,
-  "totalCount": 16
+  "totalCount": 21
 }
