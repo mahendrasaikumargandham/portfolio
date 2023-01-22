@@ -19,7 +19,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1T6c2m5QwBJS7S6o4GOrydfxdYePFjS7n/view?usp=sharing",
+    "https://drive.google.com/file/d/1B9DwHYN3TBwOgaK5aJd8egsBVs-oubMO/view?usp=share_link",
   portfolio_repository: "https://wa.link/0w5pk2",
 };
 
@@ -617,7 +617,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "undraw_ios.svg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, iOS, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, Unity, iOS, Cloud and Opensource Development.",
   },
   // blogSection: {
   //   title: "Blogs",
@@ -629,7 +629,7 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Near Ramalayam, Steamer Road, Narsapur, West Godavari Dist, Andhra Pradesh - 534275",
+      "Narsapur, West Godavari Dist, Andhra Pradesh - 534275",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
