@@ -316,12 +316,13 @@ const competitiveSites = {
       profileLink: "https://www.hackerrank.com/mahendra4919",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
+      siteName: "Coding Ninjas",
+      iconifyClassname: "simple-icons:codingninjas",
       style: {
-        color: "#5B4638",
+        color: "orange",
       },
-      profileLink: "https://www.codechef.com/users/mahendra4919",
+      profileLink:
+        "https://www.codingninjas.com/codestudio/profile/ac32f5ff-6e1b-4e45-9709-d7c0e0fe4e82",
     },
     {
       siteName: "Hackerearth",
