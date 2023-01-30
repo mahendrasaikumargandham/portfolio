@@ -202,8 +202,8 @@ const skills = {
           skillName: "Unity",
           fontAwesomeClassname: "simple-icons:unity",
           style: {
-            backgroundColor: "#000000",
-            color: "#fff",
+            // backgroundColor: "#fff",
+            color: "#000000",
           },
         },
         {
@@ -211,25 +211,25 @@ const skills = {
           fontAwesomeClassname: "simple-icons:csharp",
           style: {
             backgroundColor: "transparent",
-            color: "#000000",
+            color: "green",
           },
         },
-        {
-          skillName: "Unreal Engine",
-          fontAwesomeClassname: "simple-icons:unrealengine",
-          style: {
-            backgroundColor: "#000000",
-            color: "#fff",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            backgroundColor: "transparent",
-            color: "#000000",
-          },
-        },
+        // {
+        //   skillName: "Mixamo",
+        //   fontAwesomeClassname: "simple-icons:adobe",
+        //   style: {
+        //     backgroundColor: "#000000",
+        //     color: "#fff",
+        //   },
+        // },
+        // {
+        //   skillName: "C++",
+        //   fontAwesomeClassname: "simple-icons:cplusplus",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //     color: "#000000",
+        //   },
+        // },
       ],
     },
 
@@ -299,6 +299,14 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
+    {
+      siteName: "Leetcode",
+      iconifyClassname: "simple-icons:leetcode",
+      style: {
+        color: "orange",
+      },
+      profileLink: "https://www.leetcode.com/mahendra4919",
+    },
     {
       siteName: "HackerRank",
       iconifyClassname: "simple-icons:hackerrank",
@@ -628,8 +636,7 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Narsapur, West Godavari Dist, Andhra Pradesh - 534275",
+    subtitle: "Narsapur, West Godavari Dist, Andhra Pradesh - 534275",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
