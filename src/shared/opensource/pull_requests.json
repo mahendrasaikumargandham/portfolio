@@ -5,8 +5,12 @@
       "id": "PR_kwDOIBRSvM5D9U8x",
       "title": "Made a change in `app.py`",
       "url": "https://github.com/UndavalliJagadeesh/CoviBoard_flask/pull/1",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84311163?u=23d2d7f730cdaa231b3060008a9e873364f1afc0&v=4",
+        "url": "https://github.com/UndavalliJagadeesh",
+        "login": "UndavalliJagadeesh"
+      },
       "createdAt": "2022-11-30T10:30:01Z",
       "number": 1,
       "changedFiles": 1,
@@ -536,7 +540,7 @@
       }
     }
   ],
-  "merged": 18,
-  "open": 2,
+  "merged": 19,
+  "open": 1,
   "totalCount": 22
 }
